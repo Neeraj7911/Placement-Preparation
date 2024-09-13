@@ -1,122 +1,85 @@
 [
   {
-    "question": "What is 2 + 2?",
-    "correct": 0,
-    "options": ["4", "3", "2", "1"]
-  },
-  {
-    "question": "What is 3 + 3?",
-    "correct": 1,
-    "options": ["5", "6", "7", "8"]
-  },
-  {
-    "question": "What is the capital of France?",
+    "question": "Someone call __________ police!",
     "correct": 2,
-    "options": ["Berlin", "Madrid", "Paris", "Rome"]
+    "options": ["a", "an", "the", "No article"]
   },
   {
-    "question": "Which planet is known as the Red Planet?",
-    "correct": 0,
-    "options": ["Mars", "Venus", "Earth", "Jupiter"]
-  },
-  {
-    "question": "What is the square root of 16?",
-    "correct": 0,
-    "options": ["4", "5", "6", "7"]
-  },
-  {
-    "question": "What is 5 x 5?",
+    "question": "The plane flew _______ us.",
     "correct": 3,
-    "options": ["15", "20", "30", "25"]
+    "options": ["by", "on", "beyond", "over"]
   },
   {
-    "question": "What is the capital of Japan?",
-    "correct": 3,
-    "options": ["Beijing", "Seoul", "Bangkok", "Tokyo"]
-  },
-  {
-    "question": "Who wrote 'Hamlet'?",
+    "question": "It was time to be stood on her own two feet.",
     "correct": 1,
+    "options": ["stood", "stand", "be standing", "standing"]
+  },
+  {
+    "question": "Only if I had known about her intentions before, I __________ alert.",
+    "correct": 0,
+    "options": ["would have been", "will had been", "will have been", "would had been"]
+  },
+  {
+    "question": "In consider the difficulties of his position, he has acted admiralty.",
+    "correct": 3,
     "options": [
-      "Charles Dickens",
-      "William Shakespeare",
-      "Mark Twain",
-      "J.K. Rowling"
+      "Considering of the difficulties",
+      "Considering to the difficulties",
+      "In considering to the difficulties",
+      "Considering the difficulties",
+      "No error"
     ]
   },
   {
-    "question": "Which element has the chemical symbol 'O'?",
-    "correct": 0,
-    "options": ["Oxygen", "Hydrogen", "Carbon", "Nitrogen"]
-  },
-  {
-    "question": "What is the largest mammal?",
-    "correct": 3,
-    "options": ["Elephant", "Giraffe", "Horse", "Blue Whale"]
-  },
-  {
-    "question": "Which gas is most abundant in Earth's atmosphere?",
-    "correct": 0,
-    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"]
-  },
-  {
-    "question": "What is the hardest natural substance on Earth?",
-    "correct": 2,
-    "options": ["Gold", "Iron", "Diamond", "Platinum"]
-  },
-  {
-    "question": "What is the smallest unit of life?",
-    "correct": 1,
-    "options": ["Organ", "Cell", "Tissue", "Organism"]
-  },
-  {
-    "question": "What is the chemical formula for water?",
-    "correct": 3,
-    "options": ["CO2", "H2O2", "NaCl", "H2O"]
-  },
-  {
-    "question": "In which year did the Titanic sink?",
-    "correct": 1,
-    "options": ["1912", "1905", "1920", "1898"]
-  },
-  {
-    "question": "Which planet is known as the 'Morning Star'?",
-    "correct": 0,
-    "options": ["Venus", "Mars", "Mercury", "Saturn"]
-  },
-  {
-    "question": "What is the main source of energy for the Earth?",
-    "correct": 0,
-    "options": ["The Sun", "The Moon", "Wind", "Geothermal"]
-  },
-  {
-    "question": "Who painted the Mona Lisa?",
+    "question": "After carefully reading both the books, the editor and her colleague found that the only difference between them were their names.",
     "correct": 3,
     "options": [
-      "Vincent Van Gogh",
-      "Pablo Picasso",
-      "Claude Monet",
-      "Leonardo da Vinci"
+      "them were the names",
+      "these was their names",
+      "the books was their names",
+      "the books were their names",
+      "No error"
     ]
   },
   {
-    "question": "What is the capital of Canada?",
+    "question": "John dropped his wallet coming out from the shop.",
     "correct": 1,
-    "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"]
-  },
-  {
-    "question": "What is the largest ocean on Earth?",
-    "correct": 2,
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "John dropped the wallet coming out from the shop",
+      "While coming out of the shop, John dropped his wallet",
+      "Wallet coming out of the shop was dropped by John",
+      "While coming out of the shop, the wallet was dropped by John",
+      "No error"
     ]
   },
   {
-    "question": "What is the chemical symbol for gold?",
+    "question": "Choose the correct synonym for the following word: Expressive",
+    "correct": 2,
+    "options": ["Garrulous", "Incoherent", "Articulate", "Verbose"]
+  },
+  {
+    "question": "Choose the correct antonym for the following word: Chivalrous",
+    "correct": 1,
+    "options": ["Virile", "Despicable", "Gallant", "Mannish"]
+  },
+  {
+    "question": "Choose the correct antonym for the following word: Oblivion",
+    "correct": 0,
+    "options": ["Alert", "Comely", "Indifferent", "Bijou"]
+  },
+  {
+    "question": "Choose the correct spelling of the word to fill in the blank: The best part of my daily ____ is to wake up early.",
     "correct": 3,
-    "options": ["Ag", "Au", "Pb", "Fe"]
+    "options": ["ruotene", "routene", "ruotine", "routine"]
+  },
+  {
+    "question": "Rearrange the given phrases to form a complete sentence. Note: The phrases numbered 1 and 6 are fixed. Yet so few of us have (A) walls of daily routine (B) the time or the means (C) that enclose our lives (D) to break through the narrow 6. to get to know this land",
+    "correct": 2,
+    "options": ["BDCA", "ABDC", "BDAC", "DBAC"]
+  },
+  {
+    "question": "Rearrange the given phrases to form a complete sentence. Note: The phrases numbered 1 and 6 are fixed. Effective writing involves (A) careful choice of words, their organization (B) in the correct order to (C) well as cohesive composition (D) form sentences, as 6. of sentences.",
+    "correct": 1,
+    "options": ["ABCD", "ABDC", "CDAB", "BACD"]
   }
 ]
