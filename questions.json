@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is 2 + 2?",
+    "correct": 0,
+    "options": ["4", "3", "2", "1"]
+  },
+  {
+    "question": "What is 3 + 3?",
+    "correct": 1,
+    "options": ["5", "6", "7", "8"]
+  },
+  {
+    "question": "What is the capital of France?",
+    "correct": 2,
+    "options": ["Berlin", "Madrid", "Paris", "Rome"]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "correct": 0,
+    "options": ["Mars", "Venus", "Earth", "Jupiter"]
+  },
+  {
+    "question": "What is the square root of 16?",
+    "correct": 0,
+    "options": ["4", "5", "6", "7"]
+  },
+  {
+    "question": "What is 5 x 5?",
+    "correct": 3,
+    "options": ["15", "20", "30", "25"]
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "correct": 3,
+    "options": ["Beijing", "Seoul", "Bangkok", "Tokyo"]
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "correct": 1,
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "J.K. Rowling"
+    ]
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "correct": 0,
+    "options": ["Oxygen", "Hydrogen", "Carbon", "Nitrogen"]
+  },
+  {
+    "question": "What is the largest mammal?",
+    "correct": 3,
+    "options": ["Elephant", "Giraffe", "Horse", "Blue Whale"]
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "correct": 0,
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"]
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "correct": 2,
+    "options": ["Gold", "Iron", "Diamond", "Platinum"]
+  },
+  {
+    "question": "What is the smallest unit of life?",
+    "correct": 1,
+    "options": ["Organ", "Cell", "Tissue", "Organism"]
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "correct": 3,
+    "options": ["CO2", "H2O2", "NaCl", "H2O"]
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "correct": 1,
+    "options": ["1912", "1905", "1920", "1898"]
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star'?",
+    "correct": 0,
+    "options": ["Venus", "Mars", "Mercury", "Saturn"]
+  },
+  {
+    "question": "What is the main source of energy for the Earth?",
+    "correct": 0,
+    "options": ["The Sun", "The Moon", "Wind", "Geothermal"]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "correct": 3,
+    "options": [
+      "Vincent Van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Leonardo da Vinci"
+    ]
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "correct": 1,
+    "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "correct": 2,
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "correct": 3,
+    "options": ["Ag", "Au", "Pb", "Fe"]
+  }
+]

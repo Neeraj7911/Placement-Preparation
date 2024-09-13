@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("background-image.jpg") no-repeat center center/cover;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.home-page h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #ff5722;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #ff784e;
+}
+
+.quiz-page {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.quiz-page h2 {
+  margin-bottom: 10px;
+}
+
+.options button {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.options button.correct {
+  background-color: #4caf50;
+  border-color: #4caf50;
+}
+
+.options button.incorrect {
+  background-color: #f44336;
+  border-color: #f44336;
+}
+
+.timer {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+  background-color: #f8f8f8;
+  padding: 10px;
+}
+
+.footer a {
+  margin: 0 10px;
+  color: #0077b5;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .quiz-page {
+    width: 100%;
+    padding: 10px;
+  }
+}
