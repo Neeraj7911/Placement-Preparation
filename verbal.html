@@ -1,6 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="./favicon/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="./favicon/favicon-16x16.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="./favicon/android-chrome-192x192.png"
+    />
+    <link rel="manifest" href="./favicon/site.webmanifest" />
     <meta
       name="google-site-verification"
       content="XH9Cw9qKEvQeymPYG18exOAEHhiZKjsZBEPvPFuN_7w"
@@ -329,9 +353,13 @@
     </script>
 
     <!-- Sound Files -->
-    <audio id="correct-sound" src="correct.mp3" preload="auto"></audio>
-    <audio id="incorrect-sound" src="incorrect1.mp3" preload="auto"></audio>
-    <audio id="timer-sound" src="alarm.mp3" preload="auto"></audio>
+    <audio id="correct-sound" src="./sounds/correct.mp3" preload="auto"></audio>
+    <audio
+      id="incorrect-sound"
+      src="./sounds/incorrect1.mp3"
+      preload="auto"
+    ></audio>
+    <audio id="timer-sound" src="./sounds/alarm.mp3" preload="auto"></audio>
 
     <script>
       document.addEventListener("DOMContentLoaded", function () {
@@ -468,7 +496,7 @@
       }
 
       // Load questions from external file
-      fetch("questions.json")
+      fetch("./questions/questions.json")
         .then((response) => response.json())
         .then((data) => {
           questions = data;
