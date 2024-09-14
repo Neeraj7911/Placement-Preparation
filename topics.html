@@ -20,6 +20,7 @@
         <img src="./img/verbal.webp" alt="Topic 1" />
         <p><strong>Verbal Ability</strong></p>
       </div>
+
       <div class="grid-item" title="take Aptitude test now">
         <img src="./img/aptitude.webp" alt="Topic 2" />
         <p><strong>Aptitude</strong></p>
@@ -32,10 +33,22 @@
         <img src="./img/cs.jpeg" alt="Topic 4" />
         <p><strong>Computer Fundamentals</strong></p>
       </div>
-      <!--  <div class="grid-item">
-        <img src="topic5.jpg" alt="Topic 5" />
-        <p><strong>Node.js Overview</strong></p>
+
+      <div
+        class="grid-item"
+        onclick="startCprogramtest()"
+        title="take C Programming test now"
+      >
+        <img src="./img/cprog.png" alt="Topic 5" />
+        <p><strong>C Programming</strong></p>
       </div>
+      <!--
+<div class="grid-item" onclick="startCprogramtest()" title="take C Programming test now"></div>
+        <img src="./img/aptitude.webp" alt="Topic 2" />
+        <p><strong>Aptitude</strong></p>
+      </div>
+
+
       <div class="grid-item">
         <img src="topic6.jpg" alt="Topic 6" />
         <p><strong>Database Management</strong></p>
@@ -145,6 +158,9 @@
           "https://drive.google.com/file/d/1_1w28HtFFwOFKQuw8tb60JpKl7wAhYAj/view?usp=sharing",
           "_blank"
         );
+      }
+      function startCprogramtest() {
+        window.open("cprog.html");
       }
     </script>
   </body>

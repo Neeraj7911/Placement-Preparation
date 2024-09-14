@@ -306,7 +306,7 @@
         setTimeout(function () {
           document.getElementById("loading-screen").style.display = "none"; // Hide loading screen
           document.getElementById("content").style.display = "block"; // Show main content
-        }, 5000);
+        }, 3000);
       };
       function startQuiz() {
         window.open("verbal.html", "_blank");
@@ -468,7 +468,7 @@
       }
 
       // Load questions from external file
-      fetch("questions.json")
+      fetch("cprogrammingquestions.json")
         .then((response) => response.json())
         .then((data) => {
           questions = data;

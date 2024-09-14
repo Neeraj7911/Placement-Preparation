@@ -1,0 +1,302 @@
+[
+  {
+    "question": "C Programming Language is often called as:",
+    "correct": 1,
+    "options": [
+      "High Level Language",
+      "Middle Level Language",
+      "Low Level Language",
+      "None of these"
+    ]
+  },
+  {
+    "question": "Which of the following is true about C programming language?",
+    "correct": 3,
+    "options": [
+      "C is a structural language",
+      "C is a procedural language",
+      "C does not support function within function",
+      "All of these"
+    ]
+  },
+  {
+    "question": "How many keywords are there in C programming language?",
+    "correct": 0,
+    "options": ["32", "28", "21", "None of these"]
+  },
+  {
+    "question": "Which is not the extended keyword in C?",
+    "correct": 3,
+    "options": ["_Imaginary", "_Complex", "inline", "None of these"]
+  },
+  {
+    "question": "Process in which source code is combined with object code is termed as:",
+    "correct": 2,
+    "options": ["Linker", "Loading", "Linking", "None of these"]
+  },
+  {
+    "question": "An object of type ‘char’ is of:",
+    "correct": 0,
+    "options": ["1 byte", "2 bytes", "4 bytes", "8 bytes"]
+  },
+  {
+    "question": "For 32 bits environment, size of ‘int’ data type is:",
+    "correct": 1,
+    "options": ["2 bytes", "4 bytes", "8 bytes", "None of these"]
+  },
+  {
+    "question": "What is the minimal range of unsigned char data type?",
+    "correct": 1,
+    "options": ["-127 to 127", "0 to 255", "-32767 to 32767", "None of these"]
+  },
+  {
+    "question": "In C, the names of variables, functions, labels, and various other user-defined items are:",
+    "correct": 2,
+    "options": ["keywords", "Tokens", "Identifiers", "None of these"]
+  },
+  {
+    "question": "Variables that are declared inside a function are:",
+    "correct": 3,
+    "options": ["constants", "literals", "global", "local"]
+  },
+  {
+    "question": "All non-global variables are by default:",
+    "correct": 0,
+    "options": ["auto", "static", "extern", "register"]
+  },
+  {
+    "question": "You can direct the compiler to retain the values of local variables using modifier:",
+    "correct": 1,
+    "options": ["auto", "static", "extern", "register"]
+  },
+  {
+    "question": "main() is:",
+    "correct": 1,
+    "options": ["keyword", "function", "both", "None of these"]
+  },
+  {
+    "question": "This modifier tells the compiler that the value of the variable may change at any time:",
+    "correct": 3,
+    "options": ["extern", "public", "void", "volatile"]
+  },
+  {
+    "question": "Variables with keyword are only declared not defined:",
+    "correct": 1,
+    "options": ["auto", "extern", "static", "register"]
+  },
+  {
+    "question": "Which of the following statement about ‘static variables’ is false?",
+    "correct": 3,
+    "options": [
+      "Static variables are permanent variables within their own function or file",
+      "Static local variables are not known outside the function or file",
+      "Static variables maintain their values during function calls",
+      "Static variables and global variables are same"
+    ]
+  },
+  {
+    "question": "Which operator is used to return the length of the variables in bytes?",
+    "correct": 3,
+    "options": ["size()", "length()", "leng()", "sizeof()"]
+  },
+  {
+    "question": "The format identifier ‘%i’ is also used for:",
+    "correct": 1,
+    "options": ["char", "int", "float", "double"]
+  },
+  {
+    "question": "Which data type is best for storing a number 65000 in a 32-bit system?",
+    "correct": 3,
+    "options": ["int", "long", "signed short", "unsigned short"]
+  },
+  {
+    "question": "Which header file can be used to define i/o function prototypes and macros?",
+    "correct": 0,
+    "options": ["stdio.h", "conio.h", "stdlib.h", "alloc.h"]
+  },
+  {
+    "question": "Which of the following format is not correct?",
+    "correct": 3,
+    "options": [
+      "printf(\"%c\", character);",
+      "printf(\"%d\", integer);",
+      "printf(\"%lf\", float);",
+      "printf(\"%ld\", double);"
+    ]
+  },
+  {
+    "question": "The function prototype is followed by:",
+    "correct": 0,
+    "options": ["semicolon", "closing curly bracket", "both", "none of these"]
+  },
+  {
+    "question": "What is used for storing True or False values?",
+    "correct": 2,
+    "options": ["char", "int", "bool", "None of the above"]
+  },
+  {
+    "question": "C Programming Language is often called as:",
+    "correct": 1,
+    "options": [
+      "High Level Language",
+      "Middle Level Language",
+      "Low Level Language",
+      "None of these"
+    ]
+  },
+  {
+    "question": "Which of the following is true about C programming language?",
+    "correct": 3,
+    "options": [
+      "C is a structural language",
+      "C is a procedural language",
+      "C does not support function within function",
+      "All of these"
+    ]
+  },
+  {
+    "question": "How many keywords are there in C programming language?",
+    "correct": 0,
+    "options": ["32", "28", "21", "None of these"]
+  },
+  {
+    "question": "Which is not the extended keyword in C?",
+    "correct": 3,
+    "options": ["_Imaginary", "_Complex", "inline", "None of these"]
+  },
+  {
+    "question": "Process in which source code is combined with object code is termed as:",
+    "correct": 2,
+    "options": ["Linker", "Loading", "Linking", "None of these"]
+  },
+  {
+    "question": "An object of type ‘char’ is of:",
+    "correct": 0,
+    "options": ["1 byte", "2 bytes", "4 bytes", "8 bytes"]
+  },
+  {
+    "question": "For 32 bits environment, size of ‘int’ data type is:",
+    "correct": 1,
+    "options": ["2 bytes", "4 bytes", "8 bytes", "None of these"]
+  },
+  {
+    "question": "What is the minimal range of unsigned char data type?",
+    "correct": 1,
+    "options": ["-127 to 127", "0 to 255", "-32767 to 32767", "None of these"]
+  },
+  {
+    "question": "In C, the names of variables, functions, labels, and various other user-defined items are:",
+    "correct": 2,
+    "options": ["keywords", "Tokens", "Identifiers", "None of these"]
+  },
+  {
+    "question": "Variables that are declared inside a function are:",
+    "correct": 3,
+    "options": ["constants", "literals", "global", "local"]
+  },
+  {
+    "question": "All non-global variables are by default:",
+    "correct": 0,
+    "options": ["auto", "static", "extern", "register"]
+  },
+  {
+    "question": "You can direct the compiler to retain the values of local variables using modifier:",
+    "correct": 1,
+    "options": ["auto", "static", "extern", "register"]
+  },
+  {
+    "question": "main() is:",
+    "correct": 1,
+    "options": ["keyword", "function", "both", "None of these"]
+  },
+  {
+    "question": "This modifier tells the compiler that the value of the variable may change at any time:",
+    "correct": 3,
+    "options": ["extern", "public", "void", "volatile"]
+  },
+  {
+    "question": "Variables with keyword are only declared not defined:",
+    "correct": 1,
+    "options": ["auto", "extern", "static", "register"]
+  },
+  {
+    "question": "Which of the following statement about ‘static variables’ is false?",
+    "correct": 3,
+    "options": [
+      "Static variables are permanent variables within their own function or file",
+      "Static local variables are not known outside the function or file",
+      "Static variables maintain their values during function calls",
+      "Static variables and global variables are same"
+    ]
+  },
+  {
+    "question": "Which operator is used to return the length of the variables in bytes?",
+    "correct": 3,
+    "options": ["size()", "length()", "leng()", "sizeof()"]
+  },
+  {
+    "question": "The format identifier ‘%i’ is also used for:",
+    "correct": 1,
+    "options": ["char", "int", "float", "double"]
+  },
+  {
+    "question": "Which data type is best for storing a number 65000 in a 32-bit system?",
+    "correct": 3,
+    "options": ["int", "long", "signed short", "unsigned short"]
+  },
+  {
+    "question": "Which header file can be used to define i/o function prototypes and macros?",
+    "correct": 0,
+    "options": ["stdio.h", "conio.h", "stdlib.h", "alloc.h"]
+  },
+  {
+    "question": "Which of the following format is not correct?",
+    "correct": 3,
+    "options": [
+      "printf(\"%c\", character);",
+      "printf(\"%d\", integer);",
+      "printf(\"%lf\", float);",
+      "printf(\"%ld\", double);"
+    ]
+  },
+  {
+    "question": "The function prototype is followed by:",
+    "correct": 0,
+    "options": ["semicolon", "closing curly bracket", "both", "none of these"]
+  },
+  {
+    "question": "What is used for storing True or False values?",
+    "correct": 2,
+    "options": ["char", "int", "bool", "None of the above"]
+  },
+  {
+    "question": "Choose the correct synonym for the following word: Expressive",
+    "correct": 2,
+    "options": ["Garrulous", "Incoherent", "Articulate", "Verbose"]
+  },
+  {
+    "question": "Choose the correct antonym for the following word: Chivalrous",
+    "correct": 1,
+    "options": ["Virile", "Despicable", "Gallant", "Mannish"]
+  },
+  {
+    "question": "Choose the correct antonym for the following word: Oblivion",
+    "correct": 0,
+    "options": ["Alert", "Comely", "Indifferent", "Bijou"]
+  },
+  {
+    "question": "Choose the correct spelling of the word to fill in the blank: The best part of my daily ____ is to wake up early.",
+    "correct": 3,
+    "options": ["ruotene", "routene", "ruotine", "routine"]
+  },
+  {
+    "question": "Rearrange the given phrases to form a complete sentence. Note: The phrases numbered 1 and 6 are fixed. Yet so few of us have (A) walls of daily routine (B) the time or the means (C) that enclose our lives (D) to break through the narrow 6. to get to know this land",
+    "correct": 2,
+    "options": ["BDCA", "ABDC", "BDAC", "DBAC"]
+  },
+  {
+    "question": "Rearrange the given phrases to form a complete sentence. Note: The phrases numbered 1 and 6 are fixed. Effective writing involves (A) careful choice of words, their organization (B) in the correct order to (C) well as cohesive composition (D) form sentences, as 6. of sentences.",
+    "correct": 1,
+    "options": ["ABCD", "ABDC", "CDAB", "BACD"]
+  }
+]
