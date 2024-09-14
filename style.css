@@ -188,18 +188,26 @@ button:hover {
 }
 
 .footer {
-  position: absolute;
-  bottom: 20px;
-  width: 100%;
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
   text-align: center;
-  background-color: #f8f8f8;
-  padding: 10px;
+  justify-content: center;
+  gap: 20px;
 }
 
 .footer a {
-  margin: 0 10px;
-  color: #0077b5;
   text-decoration: none;
+  color: #007bff;
+  transition: color 0.3s ease;
+  cursor: pointer;
+}
+
+.footer a:hover {
+  color: #0056b3;
 }
 
 @media (max-width: 600px) {
